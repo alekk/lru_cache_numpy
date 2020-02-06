@@ -1,6 +1,7 @@
 # lru_cache_numpy
 
-''' python
+```python
+import numpy as np
 from numpy_caching import lru_cache_numpy
 
 @lru_cache_numpy
@@ -16,4 +17,4 @@ print(func(A,B))
 print(func(A,B+1))
 print(func(A+1,B))
 print(func(A,B))
-'''
+```
