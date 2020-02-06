@@ -1,4 +1,4 @@
-# lru_cache_numpy
+# Caching of Numpy functions
 
 ```python
 import numpy as np
